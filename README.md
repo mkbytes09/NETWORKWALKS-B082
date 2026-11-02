@@ -43,11 +43,10 @@ Through MK Bytes, I aim to document my technical journey, share practical cybers
 
 | Platform | Profile |
 |---|---|
-| GitHub | [Add your GitHub profile URL] |
-| LinkedIn | [Add your LinkedIn profile URL] |
-| Fiverr | [Add your Fiverr profile URL] |
-| Portfolio | [Add your portfolio website URL] |
-| Email | [Add your professional contact email] |
+| GitHub | [https://github.com/mkbytes09] |
+| LinkedIn | [www.linkedin.com/in/muhammad-kamil-030967261] |
+| Fiverr | [https://www.fiverr.com/mkbytes] |
+| Email | [kamilbalti2002@gmail.com] |
 
 **Professional Brand:** MK Bytes
 
