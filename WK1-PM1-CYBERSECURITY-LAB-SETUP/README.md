@@ -33,7 +33,7 @@ A practical, multi-platform cybersecurity laboratory designed for hands-on learn
 
 # 📌 1. Project Overview
 
-**This Lab** is a multi-operating-system virtual cybersecurity laboratory developed using Oracle VirtualBox.
+**In this task I developed** a multi-operating-system virtual cybersecurity laboratory developed using Oracle VirtualBox.
 
 The project brings together six virtual machines connected through a shared VirtualBox NAT Network. It provides a controlled environment for learning, configuring, testing, and documenting different operating systems and cybersecurity technologies.
 
