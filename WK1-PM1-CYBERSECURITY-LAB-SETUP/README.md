@@ -103,7 +103,184 @@ The laboratory consists of a physical host system, Oracle VirtualBox, a shared N
 
 ---
 
-# 🖥️ 3. Virtual Machine Inventory
+## 3. Lab Environment
+
+**Virtualization platform:** Oracle VirtualBox\
+**Network mode:** NAT Network\
+**Network name:** `NATNetwork`\
+**Subnet:** `10.0.0.0/24`\
+**Gateway:** `10.0.0.1`
+
+### Virtual machine inventory
+
+The evidence folder contains configuration screenshots for the following
+systems:
+
+  Virtual machine       Evidence
+  --------------------- ------------------------------------------
+  Kali Linux            `IP-configuration-Kal-Linux.png`
+  Windows 7             `IP-configuration-Windows-07.png`
+  Android-x86           `IP-configuration-Android.png`
+  Windows 10            `Windows-10-Config.png`
+  Windows 11            `IP-configuration-Windows-11.png`
+  Windows Server 2016   `IP-configuration-Windows-Server-16.png`
+
+## 4. Evidence & Proof of Concept
+
+The following screenshots are stored in
+[`Evidences-and-POCs/`](Evidences-and-POCs/). They are embedded below so
+they can be viewed directly in the GitHub repository.
+
+### 4.1 Virtual machine inventory
+
+This screenshot provides an overview of the virtual machines created for
+the lab.
+
+```{=html}
+<p align="center">
+```
+`<img src="Evidences-and-POCs/List-of-VMs-on-Virtual-Box.png" alt="VirtualBox virtual machine inventory" width="900">`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<em>`{=html}Figure 1. Virtual machines listed in Oracle
+VirtualBox.`</em>`{=html}
+```{=html}
+</p>
+```
+### 4.2 VirtualBox NAT Network configuration
+
+This screenshot documents the VirtualBox NAT Network configuration used
+by the lab.
+
+```{=html}
+<p align="center">
+```
+`<img src="Evidences-and-POCs/Virtual-Box-Network-Configuration-NAT.png" alt="VirtualBox NAT Network configuration" width="900">`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<em>`{=html}Figure 2. VirtualBox NAT Network
+configuration.`</em>`{=html}
+```{=html}
+</p>
+```
+### 4.3 Kali Linux IP configuration
+
+```{=html}
+<p align="center">
+```
+`<img src="Evidences-and-POCs/IP-configuration-Kal-Linux.png" alt="Kali Linux IP configuration" width="900">`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<em>`{=html}Figure 3. Kali Linux network configuration.`</em>`{=html}
+```{=html}
+</p>
+```
+### 4.4 Windows 7 IP configuration
+
+```{=html}
+<p align="center">
+```
+`<img src="Evidences-and-POCs/IP-configuration-Windows-07.png" alt="Windows 7 IP configuration" width="900">`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<em>`{=html}Figure 4. Windows 7 network configuration.`</em>`{=html}
+```{=html}
+</p>
+```
+### 4.5 Windows 10 network configuration
+
+```{=html}
+<p align="center">
+```
+`<img src="Evidences-and-POCs/Windows-10-Config.png" alt="Windows 10 network configuration" width="900">`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<em>`{=html}Figure 5. Windows 10 network configuration.`</em>`{=html}
+```{=html}
+</p>
+```
+### 4.6 Windows 11 IP configuration
+
+```{=html}
+<p align="center">
+```
+`<img src="Evidences-and-POCs/IP-configuration-Windows-11.png" alt="Windows 11 IP configuration" width="900">`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<em>`{=html}Figure 6. Windows 11 network configuration.`</em>`{=html}
+```{=html}
+</p>
+```
+### 4.7 Windows Server 2016 IP configuration
+
+```{=html}
+<p align="center">
+```
+`<img src="Evidences-and-POCs/IP-configuration-Windows-Server-16.png" alt="Windows Server 2016 IP configuration" width="900">`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<em>`{=html}Figure 7. Windows Server 2016 network
+configuration.`</em>`{=html}
+```{=html}
+</p>
+```
+### 4.8 Android-x86 IP configuration
+
+```{=html}
+<p align="center">
+```
+`<img src="Evidences-and-POCs/IP-configuration-Android.png" alt="Android-x86 IP configuration" width="900">`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<em>`{=html}Figure 8. Android-x86 network configuration.`</em>`{=html}
+```{=html}
+</p>
+```
+## 5. Project Documentation
+
+The detailed project report is available as a PDF in this directory:
+
+[**View / Download NetworkWalks Documentation
+(PDF)**](Network-Walks-Doc-PDF.pdf)
+
+Additional evidence and proof-of-concept files are available in
+[`Evidences-and-POCs/`](Evidences-and-POCs/).
+
+
+
+# 🖥️ 6. Virtual Machine Inventory
 
 The lab includes the following operating systems:
 
@@ -120,7 +297,7 @@ The lab includes the following operating systems:
 
 ---
 
-# ⚙️ 4. Host System & Virtualization Environment
+# ⚙️ 7. Host System & Virtualization Environment
 
 | Component | Specification |
 |---|---|
@@ -137,7 +314,7 @@ Individual VM resource allocations and disk capacities are documented in the inf
 
 ---
 
-# 🧰 5. Technologies & Tools
+# 🧰 8. Technologies & Tools
 
 The following technologies are used or planned throughout the project.
 
@@ -162,7 +339,7 @@ The following technologies are used or planned throughout the project.
 
 ---
 
-# 📂 6. Repository Structure & Directory Guide
+# 📂 9. Repository Structure & Directory Guide
 
 The repository is organized into dedicated directories so that current and future practical tasks remain structured, searchable, and reproducible.
 
@@ -198,7 +375,7 @@ NETWORKWALKS-B082/
 - Virtual machine inventory.
 - Infrastructure changes and updates.
 
-## 📁 03 — Virtual Machines
+## 📁 10 — Virtual Machines
 
 **Path:** `03-Virtual-Machines/`
 
@@ -217,7 +394,7 @@ Contains operating-system-specific installation notes, configurations, and admin
 ```
 
 
-# 🪜 4. Project Implementation Roadmap
+# 🪜 11. Project Implementation Roadmap
 
 The project will progress through the following phases.
 
@@ -240,7 +417,7 @@ The project will progress through the following phases.
 
 ---
 
-# 🔎 5. Lab Verification & Testing
+# 🔎 12. Lab Verification & Testing
 
 Each practical configuration should be verified before being marked complete.
 
@@ -281,7 +458,7 @@ adb shell
 
 ---
 
-# 🐞 6. Problems Encountered & Troubleshooting
+# 🐞 13. Problems Encountered & Troubleshooting
 
 This section records technical problems, their causes, and the solutions applied during the project.
 
@@ -308,7 +485,7 @@ Every troubleshooting record should contain:
 
 ---
 
-# 📚 7. Learning Outcomes
+# 📚 14. Learning Outcomes
 
 The project is intended to develop practical knowledge and experience in:
 
@@ -325,7 +502,7 @@ The project is intended to develop practical knowledge and experience in:
 
 ---
 
-# 📸 8. Project Evidence & Documentation
+# 📸 15. Project Evidence & Documentation
 
 Screenshots, command outputs, and diagrams are maintained throughout the repository.
 
@@ -335,7 +512,7 @@ All evidence correspond to the actual configuration or activity being documented
 
 ---
 
-# 🔐 12. Security & Ethical Use Disclaimer
+# 🔐 16. Security & Ethical Use Disclaimer
 
 This project is developed strictly for educational purposes, cybersecurity learning, and authorized security testing.
 
@@ -349,7 +526,7 @@ The author does not endorse or take responsibility for unauthorized use of the i
 
 ---
 
-# 🔗 13. Official Tools & References
+# 🔗 17. Official Tools & References
 
 | Resource | Official Website |
 |---|---|
