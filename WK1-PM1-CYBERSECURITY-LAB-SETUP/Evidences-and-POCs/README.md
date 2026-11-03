@@ -127,147 +127,21 @@ systems:
 
 ## 4. Evidence & Proof of Concept
 
-The following screenshots are stored in
-[`Evidences-and-POCs/`](Evidences-and-POCs/). They are embedded below so
-they can be viewed directly in the GitHub repository.
+The screenshots below are stored in [`Evidences-and-POCs/`](Evidences-and-POCs/) and embedded directly in this document for viewing on GitHub.
 
 ### 4.1 Virtual machine inventory
 
-This screenshot provides an overview of the virtual machines created for
-the lab.
+This screenshot provides an overview of the virtual machines created for the lab.
 
-```{=html}
-<p align="center">
-```
-`<img src="Evidences-and-POCs/List-of-VMs-on-Virtual-Box.png" alt="VirtualBox virtual machine inventory" width="900">`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<em>`{=html}Figure 1. Virtual machines listed in Oracle
-VirtualBox.`</em>`{=html}
-```{=html}
-</p>
-```
+![VirtualBox virtual machine inventory](Evidences-and-POCs/List-of-VMs-on-Virtual-Box.png)
+
+*Figure 1. Virtual machines listed in Oracle VirtualBox.*
+
 ### 4.2 VirtualBox NAT Network configuration
 
-This screenshot documents the VirtualBox NAT Network configuration used
-by the lab.
+This screenshot documents the VirtualBox NAT Network configuration used by the lab.
 
-```{=html}
-<p align="center">
-```
-`<img src="Evidences-and-POCs/Virtual-Box-Network-Configuration-NAT.png" alt="VirtualBox NAT Network configuration" width="900">`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<em>`{=html}Figure 2. VirtualBox NAT Network
-configuration.`</em>`{=html}
-```{=html}
-</p>
-```
-### 4.3 Kali Linux IP configuration
-
-```{=html}
-<p align="center">
-```
-`<img src="Evidences-and-POCs/IP-configuration-Kal-Linux.png" alt="Kali Linux IP configuration" width="900">`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<em>`{=html}Figure 3. Kali Linux network configuration.`</em>`{=html}
-```{=html}
-</p>
-```
-### 4.4 Windows 7 IP configuration
-
-```{=html}
-<p align="center">
-```
-`<img src="Evidences-and-POCs/IP-configuration-Windows-07.png" alt="Windows 7 IP configuration" width="900">`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<em>`{=html}Figure 4. Windows 7 network configuration.`</em>`{=html}
-```{=html}
-</p>
-```
-### 4.5 Windows 10 network configuration
-
-```{=html}
-<p align="center">
-```
-`<img src="Evidences-and-POCs/Windows-10-Config.png" alt="Windows 10 network configuration" width="900">`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<em>`{=html}Figure 5. Windows 10 network configuration.`</em>`{=html}
-```{=html}
-</p>
-```
-### 4.6 Windows 11 IP configuration
-
-```{=html}
-<p align="center">
-```
-`<img src="Evidences-and-POCs/IP-configuration-Windows-11.png" alt="Windows 11 IP configuration" width="900">`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<em>`{=html}Figure 6. Windows 11 network configuration.`</em>`{=html}
-```{=html}
-</p>
-```
-### 4.7 Windows Server 2016 IP configuration
-
-```{=html}
-<p align="center">
-```
-`<img src="Evidences-and-POCs/IP-configuration-Windows-Server-16.png" alt="Windows Server 2016 IP configuration" width="900">`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<em>`{=html}Figure 7. Windows Server 2016 network
-configuration.`</em>`{=html}
-```{=html}
-</p>
-```
-### 4.8 Android-x86 IP configuration
-
-```{=html}
-<p align="center">
-```
-`<img src="Evidences-and-POCs/IP-configuration-Android.png" alt="Android-x86 IP configuration" width="900">`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<em>`{=html}Figure 8. Android-x86 network configuration.`</em>`{=html}
-```{=html}
-</p>
-```
+![VirtualBox NAT Network configuration](Evidences-and-POCs/Virtual-Box-Network-Configuration-NAT.png)
 ## 5. Project Documentation
 
 The detailed project report is available as a PDF in this directory:
