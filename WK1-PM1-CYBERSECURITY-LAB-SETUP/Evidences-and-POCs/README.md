@@ -133,7 +133,7 @@ The screenshots below are stored in [`Evidences-and-POCs/`](Evidences-and-POCs/)
 
 This screenshot provides an overview of the virtual machines created for the lab.
 
-![VirtualBox virtual machine inventory](Evidences-and-POCs/List-of-VMs-on-Virtual-Box.png)
+![VirtualBox virtual machine inventory](List-of-VMs-on-Virtual-Box.png)
 
 *Figure 1. Virtual machines listed in Oracle VirtualBox.*
 
