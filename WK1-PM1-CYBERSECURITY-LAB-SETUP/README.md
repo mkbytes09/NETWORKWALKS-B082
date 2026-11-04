@@ -351,34 +351,7 @@ adb shell
 
 ---
 
-# 🐞 12. Problems Encountered & Troubleshooting
-
-This section records technical problems, their causes, and the solutions applied during the project.
-
-Examples of issues to document:
-
-- VirtualBox VM startup and virtualization errors.
-- Operating system installation problems.
-- Static IP configuration issues.
-- Network connectivity failures.
-- Firewall and ICMP restrictions.
-- Android-x86 boot and installation problems.
-- ADB connection failures.
-- Virtual machine resource limitations.
-
-Every troubleshooting record should contain:
-
-1. Problem description.
-2. Environment and affected machine.
-3. Error message or symptoms.
-4. Investigation and diagnosis.
-5. Solution implemented.
-6. Verification result.
-7. Supporting screenshots or logs.
-
----
-
-# 📚 13. Learning Outcomes
+# 📚 12. Learning Outcomes
 
 The project is intended to develop practical knowledge and experience in:
 
@@ -395,7 +368,7 @@ The project is intended to develop practical knowledge and experience in:
 
 ---
 
-# 📸 14. Project Evidence & Documentation
+# 📸 13. Project Evidence & Documentation
 
 Screenshots, command outputs, and diagrams are maintained throughout the repository.
 
@@ -405,7 +378,7 @@ All evidence correspond to the actual configuration or activity being documented
 
 ---
 
-# 🔐 15. Security & Ethical Use Disclaimer
+# 🔐 14. Security & Ethical Use Disclaimer
 
 This project is developed strictly for educational purposes, cybersecurity learning, and authorized security testing.
 
@@ -419,7 +392,7 @@ The author does not endorse or take responsibility for unauthorized use of the i
 
 ---
 
-# 🔗 16. Official Tools & References
+# 🔗 15. Official Tools & References
 
 | Resource | Official Website |
 |---|---|
